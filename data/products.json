@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2",
+    "name": "iPhone 11 Pro 256GB Memory",
+    "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+    "price": 599.99
+  },
+  {
+    "id": "3",
+    "name": "Cannon EOS 80D DSLR Camera",
+    "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+    "price": 929.99
+  },
+  {
+    "id": "4",
+    "title": "Spider-Man No Way Home",
+    "description": "It was fun to watch and the epic team up of three Spider-Man to fight classic villains.",
+    "price": 148
+  },
+  {
+    "id": "UNmaIPtNpr",
+    "title": "Ulysses A. Tranquilino",
+    "description": "202300454 BS Computer Science Second Year Single",
+    "price": 1144
+  }
+]
