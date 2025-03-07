@@ -19,6 +19,6 @@ This project is a simple **REST API** built with **Node.js** (without Express) t
 1. Clone the repository:
 2. Install Dependencies:
    npm install
-3. Start the server
+3. Start the server:
    npm start
 4. Use Postman to test API routes.
